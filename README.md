@@ -1,2 +1,2 @@
-# Roombr-Freelance
-Responsive design of the Homepage of a learning solution website with animations and parallax effects.
+# hobby-proj1
+Responsive design of the webpage with animations and parallax effects.
